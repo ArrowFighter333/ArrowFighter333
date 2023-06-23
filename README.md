@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ArrowFighter333
-- 👀 I’m interested in JavaScript, Ruby, and Java
-- 🌱 I’m currently learning Ruby, Java, and Python
-- 💞️ I’m looking to collaborate on Discord Bots
-- 📫 How to reach me: arrowfighter333@gmail.com | ArrowFighter333#0333 
-
+- 👋Hello, I'm Mia, or Arrow online
+- 🤖I used to make Discord bots, but now I'm into ethical hacking, and cybersecurity
+- 📌Florida, United States of America (EST timezone) 
 
